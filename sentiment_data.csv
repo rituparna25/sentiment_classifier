@@ -1,0 +1,59 @@
+sentence,label
+we are happy,POSITIVE
+we are sad,NEGATIVE
+we are lucky,POSITIVE
+we are unlucky,NEGATIVE
+we will win,POSITIVE
+we will lose,NEGATIVE
+we are loved,POSITIVE
+we are hated,NEGATIVE
+we are the best,POSITIVE
+we are the worst,NEGATIVE
+this is a great day,POSITIVE
+this is a bad day,NEGATIVE
+we feel amazing,POSITIVE
+we feel terrible,NEGATIVE
+everything is perfect,POSITIVE
+everything is broken,NEGATIVE
+our team will succeed,POSITIVE
+our team will fail,NEGATIVE
+I love this movie,POSITIVE
+What a fantastic experience,POSITIVE
+She is absolutely brilliant,POSITIVE
+Today is a wonderful day,POSITIVE
+We had a great time at the park,POSITIVE
+Everything is working perfectly,POSITIVE
+I'm feeling very hopeful,POSITIVE
+He did a great job,POSITIVE
+This place is amazing,POSITIVE
+The food was delicious,POSITIVE
+Our team won the match,POSITIVE
+I'm so happy with the results,POSITIVE
+The performance was outstanding,POSITIVE
+You are very kind,POSITIVE
+Life is beautiful today,POSITIVE
+I feel very confident,POSITIVE
+The project was a big success,POSITIVE
+The weather is nice and sunny,POSITIVE
+I enjoyed every moment,POSITIVE
+That was a perfect decision,POSITIVE
+I hate this movie,NEGATIVE
+What a terrible experience,NEGATIVE
+She is very annoying,NEGATIVE
+Today is a horrible day,NEGATIVE
+We had a bad time at the park,NEGATIVE
+Everything is going wrong,NEGATIVE
+I'm feeling very low,NEGATIVE
+He did a terrible job,NEGATIVE
+This place is disgusting,NEGATIVE
+The food was awful,NEGATIVE
+Our team lost the match,NEGATIVE
+I'm disappointed with the results,NEGATIVE
+The performance was pathetic,NEGATIVE
+You are very rude,NEGATIVE
+Life feels meaningless today,NEGATIVE
+I feel very anxious,NEGATIVE
+The project completely failed,NEGATIVE
+The weather is gloomy and cold,NEGATIVE
+I regret everything,NEGATIVE
+That was a terrible decision,NEGATIVE
